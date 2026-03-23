@@ -1,1 +1,10 @@
-Hey! My names D1prezz. I start developing in 2022! Here, you can find all my projects.
+# D1prezz 
+
+** ALL PROJECTS ** 
+
+# TASK MANAGER (PYTHON) 
+# BANK PROJECT (PYTHON) 
+# SCHOOL PORTAL (PYTHON) 
+# STREAMING ROYALTY AND ROBLOX TAX CALCULTOR (PYTHON) 
+
+This is normally updated!
